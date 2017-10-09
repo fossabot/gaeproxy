@@ -1,6 +1,7 @@
 ## TRAVIS CI STATUS
 
 [![Build Status](https://secure.travis-ci.org/madeye/gaeproxy.png)](http://travis-ci.org/madeye/gaeproxy)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgaeproxy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgaeproxy?ref=badge_shield)
 
 ## DOWNLOADS
 
@@ -53,3 +54,7 @@ http://developer.android.com/guide/publishing/app-signing.html#cert
 ```bash
   mvn clean install
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgaeproxy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgaeproxy?ref=badge_large)
